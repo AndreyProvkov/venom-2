@@ -2,3 +2,4 @@
 ## Using technology
 - HTML
 - CSS
+- JS
