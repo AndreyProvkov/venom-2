@@ -3,4 +3,5 @@
 - HTML
 - CSS
 - JS
+- jQuery
 - Fancybox JS
